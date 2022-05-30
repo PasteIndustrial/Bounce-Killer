@@ -1,9 +1,11 @@
 # Bounce-Killer
  Eliminate publicly distributed and illegally sold versions of LiquidBounce without source code. \
  Any LiquidBounce fork/modified version that does not comply with open-source agreement will get cracked / its source leaked.
+
  [QQ Group](https://jq.qq.com/?_wv=1027&k=TfNbXhpK)
  [Telegram](https://t.me/SkiderKiller)
-## Most importantly,
+
+## Most importantly
  Please notice that the original LiquidBounce project is publicized and licensed under GPLv3, which does **NOT** allow anyone to **sell/distribute** softwares without **disclosing their source**.
  
 Original LiquidBounce GitHub repository: https://github.com/CCBlueX/LiquidBounce \
