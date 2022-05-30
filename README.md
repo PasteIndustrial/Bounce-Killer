@@ -1,6 +1,8 @@
 # Bounce-Killer
  Eliminate publicly distributed and illegally sold versions of LiquidBounce without source code. \
  Any LiquidBounce fork/modified version that does not comply with open-source agreement will get cracked / its source leaked.
+ [QQ Group](https://jq.qq.com/?_wv=1027&k=TfNbXhpK)
+ [Telegram](https://t.me/SkiderKiller)
 ## Most importantly,
  Please notice that the original LiquidBounce project is publicized and licensed under GPLv3, which does **NOT** allow anyone to **sell/distribute** softwares without **disclosing their source**.
  
@@ -17,7 +19,7 @@ GNU General Public License version 3: https://www.gnu.org/licenses/gpl-3.0.en.ht
 ## CN: 为什么创建这个项目 
 - 许多开发人员不遵守开源协议。在使用他人成果时不做出任何贡献。为此我们将对他们的程序作出处理。
 - 针对LiquidBounce这个开源项目(GPLv3)，原开发者要求在使用他们的代码时必须对自己的修改产物进行开源。
-- 纵观整个方块人二次开发的LiquidBounce，仅有FDPClient&LiquidBouncePlus真正做到了遵守开源协议。
+- 纵观整个方块人二次开发的LiquidBounce，仅有[FDPClient](https://github.com/UnlegitMC/FDPClient)& [LiquidBouncePlus](https://github.com/WYSI-Foundation/LiquidBouncePlus)真正做到了遵守开源协议。
 - 目前大部分人对二次开发的LiquidBounce加入验证系统，进行售卖，但并未开源，这严重违反了开源者的初衷。
 - 现在我们将对这些客户端进行破解或执行一些阻止其违规行为的操作。
 
